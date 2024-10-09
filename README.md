@@ -1,3 +1,4 @@
+# Author : [Maz Khan](https://github.com/Mazkhan99)
 # House-Price-Prediction
 This project aims to predict house prices based on various factors using machine learning models. The user interface for this project is built using Shiny, an R package that allows the creation of interactive web apps directly from R. By leveraging machine learning algorithms and data visualization tools, this app provides a user-friendly way to input house features and predict the corresponding price.
 
